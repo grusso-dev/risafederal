@@ -4,6 +4,7 @@
   "description": "Pagina web del proyecto de la diplomatura de salud digital",
   "main": "app.js",
   "scripts": {
+    "start": "node --watch app.js",
     "test": "npm run test"
   },
   "keywords": [
