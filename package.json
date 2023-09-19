@@ -1,0 +1,19 @@
+{
+  "name": "risafederal",
+  "version": "1.0.0",
+  "description": "Pagina web del proyecto de la diplomatura de salud digital",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "rida",
+    "federal",
+    "red",
+    "interoperable",
+    "salud",
+    "amable"
+  ],
+  "author": "Gustavo Russo",
+  "license": "ISC"
+}
